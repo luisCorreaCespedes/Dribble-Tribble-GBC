@@ -7890,6 +7890,11 @@
                     "args": {}
                 },
                 {
+                    "id": "923664d6-c8b6-4f12-98a9-25a777d8e432",
+                    "command": "EVENT_MUSIC_STOP",
+                    "args": {}
+                },
+                {
                     "id": "f5f77253-7fc9-451d-816d-e92a9a26a34d",
                     "command": "EVENT_ACTOR_HIDE",
                     "args": {
@@ -11097,7 +11102,7 @@
         "showCollisions": true,
         "showConnections": "all",
         "worldScrollX": 0,
-        "worldScrollY": 0,
+        "worldScrollY": 0.800000011920929,
         "zoom": 200,
         "customColorsEnabled": true,
         "customHead": "",
